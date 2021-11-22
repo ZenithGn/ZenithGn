@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on : **[Hao Han Bot](https://github.com/MoonVN571/hao-han-bot)**
-- 🌱 I’m currently learning : **JavScript, C++, Html, Css and Bootstrap**
+- 🌱 I’m currently learning : **JavaScript, C++, Html, Css and Bootstrap**
 - 📫 How to reach me : **lekhoa20132005@gmail.com**
 - 😄 Pronouns : **He/Him**
 - ⚡ Fun fact : **I really like minecraft.**
