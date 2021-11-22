@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on : **[Hao Han Bot](https://github.com/MoonVN571/hao-han-bot)**
-- 🌱 I’m currently learning : **Java, JavScript, C++, Html, Css, Python**
+- 🌱 I’m currently learning : **JavScript, C++, Html, Css and Bootstrap**
 - 📫 How to reach me : **lekhoa20132005@gmail.com**
 - 😄 Pronouns : **He/Him**
 - ⚡ Fun fact : **I really like minecraft.**
@@ -18,14 +18,11 @@
 
 <p align="left"> 
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" height="45"> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
 
