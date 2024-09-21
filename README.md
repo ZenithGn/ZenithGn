@@ -4,7 +4,7 @@
 </a>
 <a href="https://github.com/ZenithGn?tab=followers"><img src="https://img.shields.io/github/followers/ZenithGn?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<h3 align="center"> Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gin</h1>
+<h3 align="center"> Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gin AKA Khoa</h1>
 
 
 ## 🙋‍♂️ About Me
