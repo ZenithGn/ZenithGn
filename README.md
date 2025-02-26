@@ -2,18 +2,13 @@
 
 # Hi there, I'm ZenithGn 👋
 
-</div>
+Welcome to my GitHub profile! I'm passionate about technology and love to explore new horizons in software development. I strive to continuously improve my skills and contribute to exciting projects. Feel free to explore my repositories and get in touch!
 
-Welcome to my GitHub profile! I'm passionate about technology and love to explore new horizons in software development. Here's a bit about me:
-
-<div align="center">
-
-## 🤖 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=ZenithGn&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/ZenithGn?style=social)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-10-blue)
 
 </div>
-
-- 🌱 I’m currently learning more about information system.
-- 📫 How to reach me: [Email](lehanguyenkhoa.2012@gmail.com)
 
 <div align="center">
 
@@ -30,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-FCC624?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </div>
 
 <div align="center">
@@ -55,4 +52,44 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 <!-- Add your repository activity links here -->
 
+<div align="center">
+
+## 🌐 Connect with Me
+
+</div>
+
+<div align="center">
+  <a href="https://www.facebook.com/zenithgn">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://discord.com/users/zenithgn">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:zenithgn@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+
+## 💻 Platforms I Use to Practice Coding
+
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/zenithgn">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://cssbattle.dev/player/zenithgn">
+    <img src="https://img.shields.io/badge/CSSBattle-00599C?style=for-the-badge&logo=css3&logoColor=white" alt="CSSBattle"/>
+  </a>
+  <a href="https://www.codewars.com/users/zenithgn">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+</div>
+
+<div align="center">
+
 Thank you for visiting my profile! Have a great day! 😊
+
+</div>
