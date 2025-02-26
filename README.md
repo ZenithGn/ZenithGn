@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 </div>
 
-- 🌱 I’m currently learning more about cloud computing and AI.
-- 📫 How to reach me: [Email](mailto:zenithgn@example.com)
+- 🌱 I’m currently learning more about information system.
+- 📫 How to reach me: [Email](lehanguyenkhoa.2012@gmail.com)
 
 <div align="center">
 
