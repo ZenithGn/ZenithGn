@@ -1,52 +1,58 @@
+<div align="center">
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ZenithGn")
-</a>
-<a href="https://github.com/ZenithGn?tab=followers"><img src="https://img.shields.io/github/followers/ZenithGn?label=Followers&style=social" alt="GitHub Badge"></a>
+# Hi there, I'm ZenithGn 👋
 
-<h3 align="center"> Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gin AKA Khoa</h1>
+</div>
 
+Welcome to my GitHub profile! I'm passionate about technology and love to explore new horizons in software development. Here's a bit about me:
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on : **[Hao Han Bot](https://github.com/MoonVN571/hao-han-bot)**
-- 🌱 I’m currently learning : **Front-End, Java OOP, SQL**
-- 📫 How to reach me : **lekhoa20132005@gmail.com**
-- 😄 Pronouns : **He/Him**
-- ⚡ Fun fact : **I really like minecraft.**
+<div align="center">
 
-## 🚀 Languages and Tools:
+## 🤖 About Me
 
-<p align="left"> 
-    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" height="45"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    
+</div>
 
+- 🌱 I’m currently learning more about cloud computing and AI.
+- 📫 How to reach me: [Email](mailto:zenithgn@example.com)
 
-<br/>	
-	
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenithGn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<div align="center">
 
-## 📊 My Github Stats
+## 🛠️ Technologies & Tools
 
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZenithGn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithGn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+</div>
 
-<br/>
-<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</div>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ZenithGn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<div align="center">
 
-<br/>
-<br/>
+## 📊 GitHub Stats
 
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZenithGn&show_icons=true&theme=radical" alt="ZenithGn's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithGn&layout=compact&theme=radical" alt="ZenithGn's Top Languages"/>
+</div>
+
+<div align="center">
+
+## 📂 Repository Activity
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenithGn&theme=radical" alt="ZenithGn's GitHub Streak Stats"/>
+</div>
+
+<!-- Add your repository activity links here -->
+
+Thank you for visiting my profile! Have a great day! 😊
