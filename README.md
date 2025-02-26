@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZenithGn&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/ZenithGn?style=social)
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-10-blue)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-8-blue)
 
 </div>
 
@@ -59,6 +59,7 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 </div>
 
 <div align="center">
+
   <a href="https://www.facebook.com">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
