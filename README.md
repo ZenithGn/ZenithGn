@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm ZenithGn 👋
+# Hi there, I'm Gin 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and love to explore new horizons in software development. I strive to continuously improve my skills and contribute to exciting projects. Feel free to explore my repositories and get in touch!
 
