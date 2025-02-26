@@ -59,13 +59,13 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/zenithgn">
+  <a href="https://www.facebook.com">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://discord.com/users/zenithgn">
+  <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:zenithgn@example.com">
+  <a href="mailto:lehanguyenkhoa.2012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -77,13 +77,13 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/zenithgn">
+  <a href="https://leetcode.com">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://cssbattle.dev/player/zenithgn">
+  <a href="https://cssbattle.dev/player">
     <img src="https://img.shields.io/badge/CSSBattle-00599C?style=for-the-badge&logo=css3&logoColor=white" alt="CSSBattle"/>
   </a>
-  <a href="https://www.codewars.com/users/zenithgn">
+  <a href="https://www.codewars.com/users">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   </a>
 </div>
