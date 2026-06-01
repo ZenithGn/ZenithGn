@@ -19,14 +19,12 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails"/>
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-FCC624?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
 <div align="center">
@@ -36,57 +34,19 @@ Welcome to my GitHub profile! I'm passionate about technology and love to explor
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZenithGn&show_icons=true&theme=radical" alt="ZenithGn's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenithGn&layout=compact&theme=radical" alt="ZenithGn's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZenithGn&layout=compact&theme=radical" alt="ZenithGn's Top Languages"/>
 </div>
 
 <div align="center">
 
-## 📂 Repository Activity
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenithGn&theme=radical" alt="ZenithGn's GitHub Streak Stats"/>
-</div>
-
-<!-- Add your repository activity links here -->
-
-<div align="center">
-
-## 🌐 Connect with Me
+## 🌐 Find Me Here
 
 </div>
 
 <div align="center">
 
-  <a href="https://www.facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:lehanguyenkhoa.2012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/415474512818077696)](https://discord.com/users/415474512818077696)
 
-<div align="center">
-
-## 💻 Platforms I Use to Practice Coding
-
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://cssbattle.dev/player">
-    <img src="https://img.shields.io/badge/CSSBattle-00599C?style=for-the-badge&logo=css3&logoColor=white" alt="CSSBattle"/>
-  </a>
-  <a href="https://www.codewars.com/users">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
-  </a>
 </div>
 
 <div align="center">
