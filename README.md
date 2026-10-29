@@ -4,9 +4,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=F780E8&center=true&vCenter=true&multiline=true&width=1300&height=140&lines=%E3%81%93%E3%81%AB%E3%81%A1%E3%82%8F;I'm+Khoa%2C+Welcome+to+my+GitHub+profile!" alt="Typing SVG" width="100%" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=500&color=F780E8&center=true&vCenter=true&multiline=true&width=1300&height=140&lines=%E3%81%93%E3%81%AB%E3%81%A1%E3%82%8F;I'm+Khoa%2C+Welcome+to+my+GitHub+profile!" alt="Typing SVG" width="100%" /></a>
 </div>
 
 <!-- Profile Introduction -->
@@ -39,16 +37,10 @@ I'm <b>Khoa</b> (aka <b>Ginn</b>)! I'm passionate about technology and love to e
 
 <!-- Metrics & Connect Badges -->
 <div align="center">
-<a href="https://github.com/ZenithGn?tab=followers">
-<img src="https://img.shields.io/github/followers/ZenithGn?style=flat-square&color=F780E8&label=Followers&logo=github&logoColor=white" alt="Followers" />
-</a>
-<a href="https://github.com/ZenithGn?tab=repositories">
-<img src="https://img.shields.io/badge/Total%20Repos-8-F780E8?style=flat-square&logo=git&logoColor=white" alt="Total Repos" />
-</a>
+<a href="https://github.com/ZenithGn?tab=followers"><img src="https://img.shields.io/github/followers/ZenithGn?style=flat-square&color=F780E8&label=Followers&logo=github&logoColor=white" alt="Followers" /></a>
+<a href="https://github.com/ZenithGn?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repos-8-F780E8?style=flat-square&logo=git&logoColor=white" alt="Total Repos" /></a>
 <img src="https://komarev.com/ghpvc/?username=ZenithGn&color=F780E8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-<a href="https://discord.com/users/415474512818077696">
-<img src="https://img.shields.io/badge/Discord-Ginn-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-</a>
+<a href="https://discord.com/users/415474512818077696"><img src="https://img.shields.io/badge/Discord-Ginn-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 </td>
